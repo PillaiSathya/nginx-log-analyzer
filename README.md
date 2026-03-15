@@ -46,7 +46,7 @@ Top 5 IP addresses with most requests:
 Top 5 most requested paths:
 /downloads/product_1 - 30285 requests
 
-![Example Output](docs/example_output.png)
+![Example Output](docs/example_out.png)
 
 ## Learning Outcomes
 
